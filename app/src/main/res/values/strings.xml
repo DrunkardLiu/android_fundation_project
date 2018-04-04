@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FoundationProject</string>
+
+    <string name="food_1_name">臭豆腐</string>
+    <string name="food_2_name">鴨血</string>
+    <string name="food_3_name">蚵仔煎</string>
+    <string name="food_4_name">涼麵</string>
+    <string name="food_5_name">味噌湯</string>
+    <string name="food_6_name">大腸麵線</string>
+    <string name="food_7_name">泡菜</string>
+    <string name="food_8_name">起家雞</string>
+    <string name="food_9_name">上引水產</string>
+    <string name="food_10_name">香蕉</string>
+
+    <string name="region_1_name">高雄</string>
+    <string name="region_2_name">台南</string>
+    <string name="region_3_name">嘉義</string>
+    <string name="region_4_name">彰化</string>
+    <string name="region_5_name">台中</string>
+    <string name="region_6_name">新竹</string>
+    <string name="region_7_name">苗栗</string>
+    <string name="region_8_name">桃園</string>
+    <string name="region_9_name">新北</string>
+    <string name="region_10_name">台北</string>
+
+</resources>
